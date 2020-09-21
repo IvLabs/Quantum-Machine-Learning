@@ -1,4 +1,4 @@
-# Quantum Machine Learning
+# Expressibility and Entangling Capability (Paper Implementation)
 
 This section contains all the circuit implementations from the paper on "[Expressibility and entangling capability of parameterized quantum circuits for hybrid quantum-classical algorithms"](https://arxiv.org/abs/1905.10876).
 
