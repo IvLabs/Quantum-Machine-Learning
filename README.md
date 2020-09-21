@@ -1,7 +1,8 @@
-# Quantum-Machine-Learning
+# Quantum Machine Learning
 
-This section contains all the circuit implementations from the paper on "[Expressibility and entangling capability of parameterized quantum circuits for hybrid quantum-classical algorithms"](https://arxiv.org/abs/1905.10876).
+This repository, is intended to serve as a collection of different algorithms, structures and feature maps used for Quantum Machine Learning.
 
-The paper provides an elementary yet useful set of feature maps that one can explore, while trying to build a classification circuit, or rather, any circuit which requires the use of a feature map. These feature maps can be coupled with variational circuits, to find the best match for the task at hand.
+*This repository is still in its early stages of development.*
 
-Further experimentation and implementation can be found [here](https://github.com/GlazeDonuts/Variational-Quantum-Classifier).
+### Contributors
+* [Khurshed P. Fitter](https://github.com/GlazeDonuts)
