@@ -15,5 +15,7 @@ The following papers (at least the circuits) have been implemented:
 
 <u>**Disclaimer:**</u> *This repository is still in its early stages of development.*
 
+<hr />
+
 ### Contributors
 * [Khurshed P. Fitter](https://github.com/GlazeDonuts)
